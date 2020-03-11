@@ -27,7 +27,7 @@ You can skip this part if you already know what version of Windows is installed 
 
 ## Part 3: Batch File
 
-1. Download `GTA Online Solo Public x86.bat` (32-bit) or `GTA Online Solo Public x64.bat` (64-bit) from this repository and save it wherever you please. I encourage you to right-click on the batch file and click **Edit** to inspect it. Downloading random files from the internet can be dangerous, and this particular type of file you can easily inspect to see what it will do every time it's ran.
+1. Download `GTA Online Solo Public 32.bat` (32-bit) or `GTA Online Solo Public 64.bat` (64-bit) from this repository and save it wherever you please. I encourage you to right-click on the batch file and click **Edit** to inspect it. Downloading random files from the internet can be dangerous, and this particular type of file you can easily inspect to see what it will do every time it's ran.
 
 
 
