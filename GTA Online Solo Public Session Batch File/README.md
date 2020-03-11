@@ -1,4 +1,4 @@
-# Solo Public Session Batch File
+# GTA Online Solo Public Session Batch File
 
 So you want to hop into a solo public session but are too lazy to use the task manager method? Well boy howdy, have I got some instructions for you! Follow these instructions and you'll have yourself a pretty little batch file you can run that'll do all the work for you. *Now isn't that just fan-fucking-tastic?!* Please note this only works on Windows and as an IT professional I can't rightfully support Apple devices... just kidding, I just don't know how to accomplish this on an Apple device and can't be bothered to figure it o
 
