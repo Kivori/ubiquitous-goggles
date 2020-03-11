@@ -18,7 +18,7 @@ You can skip this part if you already know what version of Windows is installed 
 ## Part 2: PSSuspend.exe
 
 1. Download `PSSuspend.exe` (32-bit) or `PSSuspend64.exe` (64-bit) from this repository. Alternatively you can get the same file directly from Microsoft if you would feel more comfortable:
-	1. Go to the [PSSuspend Microsoft page](https://docs.microsoft.com/en-us/sysinternals/downloads/pssuspend) and click on **Download PSTools** near the top of the page.
+	1. Go to the [PSSuspend Microsoft page](https://docs.microsoft.com/en-us/sysinternals/downloads/pssuspend)""""<a href="https://docs.microsoft.com/en-us/sysinternals/downloads/pssuspend" target="_blank">some text</a>"""" and click on **Download PSTools** near the top of the page.
 	2. Save the zip file wherever you please.
 	3. Extract `PSSuspend.exe` (32-bit) or `PSSuspend64.exe` (64-bit) from the zip file.
 2. Copy the appropriate `PSSuspend` file to `C:\Windows\System32`. Windows will likely ask you for permission to do this, go ahead and click **Continue**.
